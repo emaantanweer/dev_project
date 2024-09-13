@@ -1,2 +1,4 @@
-# dev_project
-This is my first project on github
+# FitLife
+# About my first project on GitHub
+# It is blog posting site about fitness
+
